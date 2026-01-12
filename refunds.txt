@@ -1,0 +1,2 @@
+The fund for customer having ID 200001148 for Requested refund for 399 plan. The fund for customer having ID 200001148 for Customer is shifting to another place and requests a refund for the 399 internet plan.
+Refund issued for customer cust_234. Reason: slow speed internet issues
