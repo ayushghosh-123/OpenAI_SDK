@@ -6,3 +6,4 @@ this repositry I build some AI agent using openai agent sdk and making some good
 
 1. Weather AI-Agent
 2. Sales Managing AI-AGENT
+3. Math question solving AI-Agent
